@@ -1,15 +1,17 @@
 # gerrymandering-d4d
 
-The Folders structure is:
+Folder structure:
 
 --data:
 Contains the datasets that we are using
-
---python
-Contains python scripts (if any)
-
---r
-Contains R code (if any)
+  ###districts.csv    (Eddie)
+  ###districts.json   (Roken)
+  
+--code
+   Contains all the code and scripts in python, R or whatever
+   ----python
+   ----r
+       ###calculate_area_based_gerrymander.Rmd (Vibes)
 
 --images
-Contains PNG/JPG format images of the maps of gerrymandering that are generated
+Contains PNG/JPG images of the generated gerrymandering maps
