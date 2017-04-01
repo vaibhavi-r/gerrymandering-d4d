@@ -6,6 +6,7 @@ Folder structure:
   Contains the datasets that we are using
   
   ###districts.csv    (Eddie)
+  
   ###districts.json   (Roken)
 
 
@@ -13,6 +14,7 @@ Folder structure:
    Contains all the code and scripts in python, R or other languages
    
    ----python
+   
    ----r
    
 
