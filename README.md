@@ -4,7 +4,9 @@ Folder structure:
 
 --data:
   Contains the datasets that we are using
+  
   ###districts.csv    (Eddie)
+  
   ###districts.json   (Roken)
   
 --code
@@ -13,6 +15,7 @@ Folder structure:
    ----python
    
    ----r
+   
        ###calculate_area_based_gerrymander.Rmd (Vibes)
 
 --images 
